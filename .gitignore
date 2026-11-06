@@ -1,0 +1,6 @@
+# Build output
+/dist/
+/build/
+
+# Release archives
+*.zip
